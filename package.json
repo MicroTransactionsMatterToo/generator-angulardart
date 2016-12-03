@@ -1,0 +1,13 @@
+{
+  "name": "generator-angulardart",
+  "version": "0.0.1",
+  "description": "AngularDart skeleton generator",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
